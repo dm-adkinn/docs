@@ -22,19 +22,12 @@
         ]
       }
     ],
-    "global": {
-      "anchors": [
-        {
-          "anchor": "Newsletter",
-          "href": "https://newsletter.docsmonster.com",
-          "icon": "newspaper"
-        }
-      ]
+    "global": {      
     }
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/logo/logo-light.png",
+    "dark": "/logo/logo-dark.png"
   },
   "navbar": {
     "links": [
